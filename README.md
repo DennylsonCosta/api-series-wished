@@ -4,7 +4,7 @@ Vue.js and Vuex course implementations
 **[Playlist on Youtube](https://www.youtube.com/playlist?list=PL7SyCwLzd5juMkMfe36pamqyK_8ugM-l3)**
 
 ## API
-API REST with JWT authentication
+API REST with Token Bearer authentication
 
 ## DATABASE
 * Mocks
